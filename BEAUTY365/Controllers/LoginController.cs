@@ -13,7 +13,7 @@ namespace BEAUTY365.Controllers
             return View();
         }
 
-        public ActionResult ResetPassword()
+        public ActionResult ChangePassword()
         {
             return View();
         }
