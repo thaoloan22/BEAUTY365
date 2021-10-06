@@ -20,10 +20,10 @@
     <link href="/Content/assets/global/plugins/select2/css/select2-bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="/Content/assets/global/css/components-md.min.css" rel="stylesheet" id="style_components" type="text/css" />
     <link href="/Content/assets/global/css/plugins-md.min.css" rel="stylesheet" type="text/css" />
-    <link href="/Content/assets/pages/css/login-4.min.css" rel="stylesheet" type="text/css" />
+    <link href="/Content/assets/apps/css/login.css" rel="stylesheet" type="text/css" />
     <link rel="shortcut icon" href="favicon.ico" />
 </head>
-<body class="login" style="background-image:url(/Content/assets/pages/media/bg/4.jpg); background-size:cover">
+<body class="login" style="background-image:url(/Content/assets/apps/media/bg/4.jpg); background-size:cover">
     <div class="logo">
         <a style="font-size: 18px">
             <asp:Image ID="Image1" runat="server" ImageUrl="~/Content/assets/apps/img/logo.png" Width="230px" EnableTheming="False" EnableViewState="False"/>
@@ -71,6 +71,6 @@
     <script src="/Content/assets/global/plugins/select2/js/select2.full.min.js" type="text/javascript"></script>
     <script src="/Content/assets/global/plugins/backstretch/jquery.backstretch.min.js" type="text/javascript"></script>
     <script src="/Content/assets/global/scripts/app.min.js" type="text/javascript"></script>
-    <script src="/Content/assets/pages/scripts/login-4.js" type="text/javascript"></script>
+    <script src="/Content/assets/apps/scripts/login.js" type="text/javascript"></script>
 </body>
 </html>
